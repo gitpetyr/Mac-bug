@@ -1,3 +1,2 @@
 # Mac-bug
-On Mac-s MEMZ
-not Use Root
+On Mac-s MEMZ，not Use Root
